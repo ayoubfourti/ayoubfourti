@@ -9,7 +9,7 @@
 ### 👨‍💻 À propos de moi
 
 - 🎓 Étudiant en dernière année d'ingénieur à **ESPRIT** (Tunisie).
-- 🎯 À la recherche d'un **stage PFE de 6 mois en France** à partir de **janvier 2027**.
+- 🎯 À la recherche d'un **stage PFE de 6 mois** à partir de **janvier 2027**.
 - 🤖 Passionné par les systèmes embarqués, le firmware bas niveau et la robotique mobile autonome (**ROS 2, SLAM/Nav2**).
 
 ---
