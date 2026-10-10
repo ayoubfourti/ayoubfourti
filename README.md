@@ -10,33 +10,45 @@
 
 - 🎓 Étudiant en dernière année d'ingénieur à **ESPRIT** (Tunisie).
 - 🎯 À la recherche d'un **stage PFE de 6 mois** à partir de **janvier 2027**.
-- 🤖 Passionné par les systèmes embarqués, le firmware bas niveau et la robotique mobile autonome (**ROS 2, SLAM/Nav2**).
+- 🤖 Expérience en systèmes embarqués et robotique : **ROS 2, SLAM/Nav2, Jetson, STM32/ESP32, C/C++ et Python**.
 
 ---
 
-### 🛠️ Tech Stack & Compétences
+### 🛠️ Compétences Techniques (Skills)
 
-**Embedded & Firmware:**
-<p>
-  <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-</p>
+- **Langages :** Embedded C, C/C++, Python, Java, JavaScript, TypeScript, SQL, Bash, VHDL
+- **Embarqué & Firmware :** Microcontrôleurs (STM32, ESP32, Arduino), DMA, Timers, Interruptions, Yocto, Buildroot, Linux embarqué, UART, I2C, SPI
+- **Robotique :** ROS2, SLAM, Nav2, Gazebo, RViz
+- **Outils :** Git, GitHub, Postman, Arduino IDE, VS Code, Figma, Proteus, Docker, MongoDB Compass, Firebase Console
+- **Langues :** Français (B1), Anglais (B1)
 
-**Robotics & Navigation:**
-<p>
-  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gazebo-4A7C59?style=for-the-badge&logo=gazebo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetson%20Nano-007600?style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
+---
 
-**Languages & Tools:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### 💼 Expérience Professionnelle
+
+* **Cyber Mech Systems** — Stagiaire ingénieur logiciel (Plateforme robotique)
+  * *À distance, été 2026* : Intégration du tableau de bord du robot mobile autonome AMR-X avec ROS2 via rosbridge (télémétrie et contrôle temps réel, simulation Gazebo).
+  * Développement de la téléopération en temps réel et du suivi des missions dans l'interface web.
+  * Développement du backend FastAPI/PostgreSQL et du frontend React du tableau de bord.
+
+---
+
+### 🚀 Projets Académiques
+
+1. **Hexapode de recherche et sauvetage** (ROS2, Jetson Nano, ESP32, SLAM, Nav2, LiDAR, IMU, YOLO)
+   - Architecture distribuée (Jetson Nano pour ROS2/SLAM/navigation et ESP32 pour le contrôle moteur).
+   - Intégration LiDAR, MPU6050, caméra pour la perception et cartographie Nav2.
+   - Détection YOLO pour le sauvetage, tableau de bord web et application mobile de streaming vidéo.
+
+2. **Smart AquaCare** (STM32, ADC, DMA, PWM, Timers, RTC, Interrupts, Embedded C, STM32Cube.AI)
+   - Système embarqué autonome pour la surveillance temps réel.
+   - Utilisation de l'ADC avec DMA, Timers, interruptions, RTC et intégration d'un modèle d'IA léger avec STM32Cube.AI.
+
+3. **Wireless Auto** (ESP32, MQTT, Raspberry Pi, Temps réel)
+   - Système embarqué distribué avec plusieurs nœuds ESP32 et communication MQTT vers une passerelle Raspberry Pi.
+
+4. **Single-Gesture Vault** (Android, Java, Sensor Fusion, Signal Processing, DTW, AES-256)
+   - Authentification par geste basée sur l'accéléromètre, le gyroscope, le prétraitement du signal, le Dynamic Time Warping (DTW) et la sécurité AES-256.
 
 ---
 
@@ -48,7 +60,8 @@
 
 ---
 
-### 📫 Connect With Me
+### 📫 Contact
 
 - 📧 Email : **fourtii.ayoub@gmail.com**
-- 🔗 LinkedIn : [Mon Profil LinkedIn](https://linkedin.com)
+- 🔗 LinkedIn : [linkedin.com/in/Ayoub-Fourti](https://linkedin.com/in/Ayoub-Fourti)
+- 🐙 GitHub : [github.com/ayoubfourti](https://github.com/ayoubfourti)
